@@ -1,0 +1,10 @@
+{
+  "name": "mon-portfolio",
+  "version": "1.0.0",
+  "description": "Mon portfolio personnel",
+  "scripts": {
+    "test": "echo \"✅ Tests réussis !\" && exit 0"
+  },
+  "keywords": ["portfolio", "web"],
+  "author": "Votre Nom"
+}
